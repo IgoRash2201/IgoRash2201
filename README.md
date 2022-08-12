@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IgoRash2201
+- 👋 Hi, I’m @I_go_Rash2201
 - 👀 I’m interested in SQL, PostgreSQL, Tableau, Python, C++, DAX, Power BI
-- 🌱 I’m currently learning mySQL, Python, Power BI PRO
+- 🌱 I’m currently learning mySQL, Python, Power BI PRO and styding at on-line platform GeekBrains
 - 💞️ I’m looking to collaborate on business & system analytics
 - 📫 How to reach me via e-mail: igor.grigorash2201@gmail.com
 
